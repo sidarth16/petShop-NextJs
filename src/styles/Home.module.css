@@ -14,6 +14,30 @@
   color: #ffffff;
 }
 
+.main .connect{
+  color: #cdc6c6; 
+  font-size: medium;
+}
+
+.connect button{
+  background-color: #e1e1e1; /* Green */
+  border: 2px solid #e1e1e1;
+  border-radius: 7px;
+  color: white;
+  font-size: 16px;
+  margin: 5px 2px;
+  color: black;
+  
+}
+
+.main .connect button:hover {
+  background-color: rgb(191, 190, 190);
+
+}
+
+
+
+
 .footer {
   display: flex;
   flex: 1;
